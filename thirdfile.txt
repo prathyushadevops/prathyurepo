@@ -1,1 +1,3 @@
-third file
+third file.
+
+This is pushed into the feature branch
